@@ -1,0 +1,1 @@
+interface BlockDispatcherScope : BlockKeyMatcherScope
